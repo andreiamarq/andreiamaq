@@ -1,41 +1,28 @@
-# 👋 Olá! Eu sou a Andreia Alves Marques
+# Olá, eu sou a Andreia Alves 👋
 
-💻 **Futura Desenvolvedora Web**  
-🔎 Focada em HTML, CSS, JavaScript e construção de interfaces  
-📚 Estudando Front-end e construindo meu portfólio  
-🚀 Apaixonada por tecnologia, design e boas práticas de código
+### 👩‍💻 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unitins**.
+- 🚀 Recentemente finalizei um curso de Programação Web.
+- 🎯 Meu foco atual é me especializar em **Frontend**.
+- 🔍 Em busca de novos conhecimentos e da primeira oportunidade na área de TI.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🟢 [Jogo da Cobrinha](https://github.com/andreiamarq/jogo-da-cobrinha)
-Versão do clássico Snake Game usando HTML, CSS e JavaScript puro.
-
-### 🟣 [Site Responsivo](https://github.com/andreiamarq/site-responsivo)
-Página responsiva utilizando HTML, CSS e Bootstrap.
-
-### 🔴 [Senac-Plus](https://github.com/andreiamarq/Senac-Plus)
-Site de venda de cursos — projeto acadêmico.
+### 📊 Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreiamarq&show_icons=true&theme=dracula)
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Andreia GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreiamarq&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiamarq&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Contato
-📧 andreiaalves@unitins.br  
-🌐 [Meu GitHub](https://github.com/andreiamarq)
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreia-marques-a09b0b390)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreiaalves@unitins.br)
